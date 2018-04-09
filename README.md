@@ -1,4 +1,4 @@
-Repository about my studies about python
+Repository of my studies about python
 ========================================
 
 My annotations about python ecosystem.
